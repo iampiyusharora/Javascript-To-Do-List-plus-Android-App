@@ -12,16 +12,7 @@ To change the URL for web view in Android Studio, Go to MainActivity.java
 
 Here's the source code, where you'd simly add your URL:
 
-public class MainActivity extends ActionBarActivity {
-    private WebView myWebView;
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        myWebView = (WebView)findViewById(R.id.webView);
-        WebSettings webSettings = myWebView.getSettings();
-        webSettings.setJavaScriptEnabled(true);
-        myWebView.loadUrl("http://www.yourprojectdomain.com/");
-        myWebView.setWebViewClient(new WebViewClient());
-    }
+
+myWebView.loadUrl("http://www.yourprojectdomain.com/");
+        
 
