@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/piyusharora/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_cadcd9bed87dafd1de984666bb42ad7b28f184c8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="f74e84037b5a8462b1c433a1475cb5835c7d75e4">
+        <dex dex="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d9ee8dcac15494731ccedfff6e202f35a5df2bec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_bcef86e8585dfdecbeea8b81c86b64e87dd267eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_aed6485cc371151402a154f200b90b08a1c155ee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2b39a9a62a23fc19e47a75fe8ba672cb765f4c26">
+        <dex dex="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fadf50b724cd29cc520d6e8d4015945d62c5802b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/piyusharora/Downloads/vanillatodo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.3_d74335dfad66ef6ace396575f6bbe3ff67a80784/classes.dex" />
+    </item>
+
+</items>
